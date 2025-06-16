@@ -18,14 +18,13 @@ Aqui compartilho projetos acadêmicos, pessoais e experimentos. Sinta-se à vont
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MuriloFelipe-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub de Murilo" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=RafaelRodrigues666&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub de Rafael" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFelipe-S&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas por Murilo" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRodrigues666&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas por Rafael" height="180" />
 
 </div>
 
 ---
-
 
 ## 📫 Como me encontrar
 
