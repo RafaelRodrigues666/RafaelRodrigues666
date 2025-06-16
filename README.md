@@ -13,6 +13,20 @@ Seja bem-vindo(a) ao meu perfil do GitHub! Aqui você vai encontrar meus projeto
 
 Aqui compartilho projetos acadêmicos, pessoais e experimentos. Sinta-se à vontade para explorar, dar sugestões ou contribuir!
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MuriloFelipe-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub de Murilo" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFelipe-S&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas por Murilo" height="180" />
+
+</div>
+
+---
+
+
 ## 📫 Como me encontrar
 
 - ✉️ **Email:** rafael.rodrigues2704@icloud.com
