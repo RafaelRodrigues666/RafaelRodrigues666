@@ -15,6 +15,12 @@ Aqui compartilho projetos acadêmicos, pessoais e experimentos. Sinta-se à vont
 
 ---
 
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="60" alt="Java" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="60" alt="Spring" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="60" alt="HTML5" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="60" alt="CSS3" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="60" alt="Angular" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="60" alt="Docker" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60" alt="Git" style="margin: 10px;" /> </div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
