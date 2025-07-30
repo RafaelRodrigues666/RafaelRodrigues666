@@ -24,7 +24,7 @@ Aqui compartilho projetos acadêmicos, pessoais e experimentos. Sinta-se à vont
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RafaelRodrigues666&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub de Rafael" height="180" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelRodrigues666-S&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRodrigues666&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas por Rafael" height="180" />
 
